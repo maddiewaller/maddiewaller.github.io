@@ -1,81 +1,45 @@
 ---
 layout: page
 title: Online Handbook of Argumentation for AI
-description: with background image
-img: assets/img/12.jpg
-importance: 1
+description: handbook for PhD research
+img: assets/img/ohaai.png
+redirect: https://ohaai.github.io
+importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The <a href="https://ohaai.github.io" target="_blank" rel="noopener noreferrer">Online Handbook of Argumentation for AI (OHAAI)</a> is a collection of selected peer-reviewed papers summarising ongoing PhD research on Argumentation in AI, published annually as an online Open Access handbook. OHAAI serves as a research hub to track the latest PhD projects on the theory and application of argumentation.
+It maintains an open call for submissions, allowing contributors to submit their work throughout the year.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+OHAAI includes:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- collaboration and knowledge discovery across the argumentation community,
+- a citable annual peer-reviewed publication venue for PhD students,
+- promotion of argumentation through events and wider PhD-facing communication,
+- opportunities for accepted contributors to present their work at OHAAI events.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## How can you contribute to OHAAI?
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+If you are a PhD student or recent graduate, you can contribute to OHAAI by submitting a summary of your PhD project in computational argumentation, clearly indicating how your work contributes to emerging theoretical techniques and/or applications of argumentation for AI.
+Submissions undergo a thorough single-blind peer-review process within 6–8 weeks, with feedback provided to contributors and decisions communicated on acceptance or required revisions.
+Once accepted, submissions are published on the OHAAI website and contributors are invited to present at an OHAAI event.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+OHAAI encourages contributors to update project summaries annually, creating a continually refreshed repository of PhD research.
+Its focus includes topics connecting AI and argumentation with disciplines such as Philosophy, Psychology, Cognitive Science, Law, Health, Sociology, Communication Science, and Economics.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Why contribute to OHAAI?
 
-{% raw %}
+By contributing, researchers can publish in a citable peer-reviewed venue, strengthen their research profile, and share concise updates on PhD progress with the broader community.
+Accepted contributors are also invited to present their work at OHAAI events, helping increase visibility and build new collaborations.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Explore OHAAI and submission information at <a href="https://ohaai.github.io" target="_blank" rel="noopener noreferrer">https://ohaai.github.io</a>.
 
-{% endraw %}
+OHAAI Committee:
+- Myself
+- Elfia Bezou Vrakatseli
+- Siddharth Bhargava
+- Federico Castagna
+- Isabelle Kuhlmann
+- R.J. (Roos) Scheffers
+- Andreas Xydis
