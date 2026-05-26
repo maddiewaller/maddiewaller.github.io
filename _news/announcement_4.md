@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-03-06 15:59:00-0400
-title: Our paper titled got accepted at The 4th World Conference on Explainable Artificial Intelligence (XAI-2026)!
+title: Our paper got accepted at The 4th World Conference on Explainable Artificial Intelligence (XAI-2026)!
 inline: false
 related_posts: false
 ---
