@@ -17,11 +17,11 @@ Collaborators:
 - [Prof. Karen Yeung](https://karenyeung.me) — Interdisciplinary Professorial Fellow in Law, Ethics and Informatics,
 	Birmingham Law School and School of Computer Science.
 
-You can find the original short report [here](https://cispa.de/elsa/2024/ELSA%20%20D3.4%20Short%20Report.pdf) (ELSA Deliverable 3.3, 28th August 2024):
+You can find the original short report [here](https://cispa.de/elsa/2024/ELSA%20%20D3.4%20Short%20Report.pdf) (ELSA Deliverable 3.3, 28th August 2024).
 
-This research is still ongoing and any input or discussions are very welcome.
+Any input or discussions on the project are very welcome.
 
-Research from this project will be presented at the [Law, AI and Regulation (LAIR)](https://lair-conference.github.io) conference in June 2026 and the [The 4th World Conference on Explainable Artificial Intelligence (XAI-2026)](https://xaiworldconference.com/2026/) in July 2026. More details of presentations/publications to come.
+Research from this project was presented at the [Law, AI and Regulation (LAIR)](https://lair-conference.github.io) conference in June 2026 and the [The 4th World Conference on Explainable Artificial Intelligence (XAI-2026)](https://xaiworldconference.com/2026/) in July 2026. More details of presentations/publications to come.
 
 ## Contributions
 
