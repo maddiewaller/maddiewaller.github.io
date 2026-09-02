@@ -39,7 +39,17 @@ ninja.data = [{
             },},{id: "news-started-as-a-postdoctoral-researcher-at-the-university-of-tübingen",
           title: 'Started as a Postdoctoral Researcher at the University of Tübingen!🍾',
           description: "",
-          section: "News",},{id: "projects-legality-of-technical-explainable-ai-methods",
+          section: "News",},{id: "news-i-presented-at-at-the-law-ai-and-regulation-conference-in-rotterdam",
+          title: 'I presented at at the Law, AI and Regulation Conference in Rotterdam 🇳🇱...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "news-i-presented-our-paper-at-the-4th-world-conference-on-explainable-artificial-intelligence-in-fortaleza",
+          title: 'I presented our paper at The 4th World Conference on Explainable Artificial Intelligence...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
+            },},{id: "projects-legality-of-technical-explainable-ai-methods",
           title: 'Legality of Technical Explainable AI Methods',
           description: "mapping XAI methods and legal justification",
           section: "Projects",handler: () => {
